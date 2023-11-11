@@ -9,13 +9,13 @@
 - Định dạnh file .py
 - Nên tách định nghĩa của def và Class với các phần trên bằng 2 dòng trống, và các method trong Class cách nhau 1 dòng trống
 - Nên nhóm các lệnh import theo thứ tự:
-- - 1. Các thư viện tiêu chuẩn như os, sys
-- - 2. Các thư viện bên thứ 3
-- - 3. Các module/thư viện local
+  - Các thư viện tiêu chuẩn như os, sys
+  - Các thư viện bên thứ 3
+  - Các module/thư viện local
 - Nên đặt tên theo quy tắc
-- - Class SomeExampleClass
-- - def some_example_function
-- - CONSTANT_STRING = "STRING"
+  - Class SomeExampleClass
+  - def some_example_function
+  - CONSTANT_STRING = "STRING"
 
 ## Variables
 - Python has no command for declaring a variable, a variable is create the moment you first assign a value to it.
@@ -30,4 +30,4 @@ Built-in Data Types
 - Set Types: `set`, `frozenset`
 - Boolean Type:	`bool`
 - Binary Types:	`bytes`, `bytearray`, `memoryview`
-- None Type: `NoneType`
+- None Type:	`NoneType`
