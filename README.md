@@ -30,4 +30,4 @@ Built-in Data Types
 - Set Types: `set`, `frozenset`
 - Boolean Type:	`bool`
 - Binary Types:	`bytes`, `bytearray`, `memoryview`
-- None Type:	`NoneType`
+- None Type: `NoneType`

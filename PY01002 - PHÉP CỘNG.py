@@ -1,11 +1,6 @@
-# @author: Vũ Viết Duy
-
-x = "awesome"
-
-def myfunc():
-  x = "fantastic"
-  print("Python is " + x)
-
-myfunc()
-
-print("Python is " + x)
+i = input().split()
+a, b, c = int(i[0]), int(i[2]), int(i[4])
+if a+b==c:
+    print("YES")
+else:
+    print("NO")
