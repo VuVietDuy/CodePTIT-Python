@@ -8,5 +8,13 @@
 
 ## Import Numpy
 
-`import numpy`
-NumPy is usually imported under the `np` alias
+- `import numpy`
+- NumPy is usually imported under the `np` alias
+
+## NumPy Array Slicing
+
+Slicing in python means taking elements from one given index to another given index
+- `[start:end:step]`
+
+## Python NumPy Operations
+1. `ndim`: Số chiều của mảng
